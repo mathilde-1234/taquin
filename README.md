@@ -1,2 +1,2 @@
 # taquin
-TP de NSI : septembre 2026
+TP de NSI : octobre 2026
